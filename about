@@ -1,0 +1,7 @@
+El Predictor Electoral (http://www.aquienvoto.uy/) es un proyecto de aplicación de inteligencia artificial en código abierto propuesto y elaborado en origen por <a href=https://twitter.com/johnblancott>@johnblanco</a>.
+
+Se trata de un modelo entrenado con un set de datos inicial de respuestas con el candidato ya seleccionado, y que mejora con la opción que se les presenta a los usuarios al final del formulario donde indican el candidato de su preferencia.
+
+El desarrollo se hizo en la plataforma GitHub que permite el trabajo colaborativo con un sistema de control de versiones que le da mayor transparencia al trabajo de desarrollo.
+
+Se puede encontrar más información del proceso de creación del sitio en <a href=https://www.reddit.com/r/uruguay/comments/asgjur/predictor_electoral_de_ruruguay_ya_estamos/>Reddit</a>
